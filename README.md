@@ -39,6 +39,13 @@ This model builds a bridge between **theoretical predictions** and **observation
 
 ---
 
+## Run in Google Colab  
+
+You can also run this model directly in Google Colab:  
+
+[Open in Google Colab](https://colab.research.google.com/drive/1-uukQnAdUyL_ibgOdEnpwYpoOXfQ7FBv?authuser=1)
+
+
 ## **Steps to Run the Code**  
 
 **Note:** If you do not have Python installed, download and install it from [python.org](https://python.org). Use **Python 3.7 or later** for compatibility with Galpy. Virtual environments are recommended for dependency management.  
