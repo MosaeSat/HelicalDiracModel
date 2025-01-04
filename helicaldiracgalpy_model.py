@@ -14,6 +14,9 @@
 # - 3D visualization of helical orbits affected by central black holes.
 # - Energy and angular momentum conservation plots.
 # - Editable parameters for black hole and disk potentials.
+# 
+# Users can modify mass and size of the black hole and disk, initial positions and velocities to simulate
+# different orbits, and integration times to analyze long-term stability or short-term perturbations.
 #
 # Dependencies:
 # - Python 3.7 or later
