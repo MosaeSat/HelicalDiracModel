@@ -3,7 +3,7 @@
 This repository contains the code and resources for the paper:
 
 **"A Unified Rotational Model of Black Holes and Galactic Dynamics: The Helical Path and Dirac Twisted Belt Phenomenon"**  
-*Author: F. Hanna Campbell*  
+*Author: F. Hanna Campbell*  https://doi.org/10.5281/zenodo.14639156
 *Date: 2024*  
 
 ---
